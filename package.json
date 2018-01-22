@@ -1,5 +1,5 @@
 {
-  "name": "deneme",
+  "name": "user-list-todo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,5 +13,25 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "ReactJS - User List Todo",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaniaLs4Life/ReactJS-UserList-Todo.git"
+  },
+  "keywords": [
+    "ReactJs",
+    "-",
+    "User",
+    "List",
+    "Todo"
+  ],
+  "author": "Hakan GENC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SaniaLs4Life/ReactJS-UserList-Todo/issues"
+  },
+  "homepage": "https://github.com/SaniaLs4Life/ReactJS-UserList-Todo#readme"
 }
