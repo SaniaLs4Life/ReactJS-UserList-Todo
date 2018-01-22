@@ -1,0 +1,58 @@
+body{
+  font-family: 'Comfortaa' !important;
+  font-weight: bold !important;
+}
+.container{
+  margin-top:15px;
+}
+.row{
+  text-align: center;
+}
+.list-group-item{
+  cursor: pointer;
+  user-select: none;
+}
+.form-group{
+  padding: 10px;
+  border-radius: 3px;
+  border:none;
+  border:1px solid #DDD;
+  user-select: none;
+}
+.remove{
+  position: relative;
+  right:-5px;
+  top:0px;
+  font-weight: bold;
+  color:#fff;
+  background:#E0A800;
+  padding:5px;
+  border-radius: 3px;
+  cursor: pointer;
+  text-align: center;
+}
+.remove:hover{
+  color:#FFF;
+  background:#000;
+}
+button{
+  user-select: none;
+  cursor: pointer;
+  font-weight: bold !important; 
+}
+table{
+  margin-top:15px;
+  user-select: none;
+}
+h1{
+  color:#000 !important;
+  font-weight: bold !important;
+  user-select: none;
+}
+.name{
+  word-wrap: break-word;
+}
+.alert-warning{
+  margin-top:15px;
+  user-select: none;
+}
